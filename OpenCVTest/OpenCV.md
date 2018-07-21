@@ -50,3 +50,12 @@ $(OPENCV_DIR)\x64\vc15\lib
 Linker > Input:
 
 Add `.lib` files as needed.
+
+
+# Aruco
+
+Application parameters:
+
+```
+-d=10 -l=0.06 -r
+```
